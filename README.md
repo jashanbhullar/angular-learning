@@ -18,3 +18,5 @@ npm run deploy:firebase
 
 ## NOTE 
  Insert your own firebase conifgurations in the environments.
+
+Live url = https://oshop-7b566.firebaseapp.com
